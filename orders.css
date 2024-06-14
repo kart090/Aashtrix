@@ -1,0 +1,18 @@
+html{
+    background-image: url(images/Home1.png);
+}
+h1{
+    text-align: center;
+}
+p{
+    font-style: italic;
+}
+#stock{
+    color: green;
+}
+#proof{
+    font-weight: 800;
+}
+button{
+    background-color: rgb(233, 233, 45)
+}
